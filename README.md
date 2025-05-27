@@ -16,6 +16,7 @@ My name is **Gianluca Tricarico** I'm 17 years old student to the ITIS Majorana 
 - C#
 
 <br/>
+
 ### I’m intrested in 👀:
 
 - Computer Science
@@ -24,6 +25,7 @@ My name is **Gianluca Tricarico** I'm 17 years old student to the ITIS Majorana 
 - Aviation
 
 <br/>
+
 ### I’m currently looking forward to🔭 :
 
 - Computer Science
