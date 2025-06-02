@@ -1,33 +1,45 @@
 ## Hi there 👋
 
-<!--**sniphe/sniphe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-My name is **Gianluca Tricarico** I'm 17 years old student to the ITIS Majorana of Grugliasco
+<!--**GianlucaTricarico/GianlucaTricarico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+
+I'm **Gianluca Tricarico**, a 17-year-old student at ITIS Majorana in Grugliasco, Italy.  
+I've been passionate about **Computer Science** since I was 13, and since then I’ve been constantly exploring, learning, and building.
 
 <br/>
 
+### 🌱 Currently Learning:
 
-### I’m currently learning 🌱:
-
-- Computer Science
-- Web Development
-- JavaScript
-- TypeScript
-- Python
-- C#
+- Computer Science Fundamentals  
+- Web Development (Front-end & Back-end)  
+- JavaScript / TypeScript  
+- Python  
+- C#  
 
 <br/>
 
-### I’m intrested in 👀:
+### 👀 Interests:
 
-- Computer Science
-- Web Development
-- Animation film and animated TV series production
-- Aviation
+- Software & Web Development  
+- Creative Technologies (Animation & Digital Storytelling)  
+- Aviation and Aerospace  
+- Team Projects and Innovation Challenges  
 
 <br/>
 
-### I’m currently looking forward to🔭 :
+### 🔭 Looking Forward To:
 
-- Computer Science
-- Find even a small web development project to work on
-- Developing my own business in the IT's field
+- Collaborating on engaging and meaningful web development projects  
+- Creating innovative tools, platforms, or digital experiences  
+- Building my own startup in the IT and creative tech field  
+- Constantly learning and growing with passionate people  
+
+<br/>
+
+> 💡 I’m always looking for **exciting, challenging projects** to contribute to.  
+> If you have an idea or you're building something cool — let's connect!
+
+<br/>
+
+### 📫 Contact Me:
+
+- 📧 Email: [gt.tricarico@gmail.com](mailto:gt.tricarico@gmail.com)  
