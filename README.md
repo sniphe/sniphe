@@ -1,4 +1,4 @@
-#Student at ITIS E. Majorana | Junior Web Developer | Given the right conditions the impossible is always possible
+# Student at ITIS E. Majorana | Junior Web Developer | Given the right conditions the impossible is always possible
 
 <!--**GianlucaTricarico/GianlucaTricarico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
