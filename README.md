@@ -1,8 +1,8 @@
-## Hi there 👋
+#Student at ITIS E. Majorana | Junior Web Developer | Given the right conditions the impossible is always possible
 
 <!--**GianlucaTricarico/GianlucaTricarico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
-I'm **Gianluca Tricarico**, a 17-year-old student at ITIS Majorana in Grugliasco, Italy.  
+Hi there 👋, I'm **Gianluca Tricarico**, a 17-year-old student at ITIS Majorana in Grugliasco, Italy.  
 I've been passionate about **Computer Science** since I was 13, and since then I’ve been constantly exploring, learning, and building.
 
 <br/>
