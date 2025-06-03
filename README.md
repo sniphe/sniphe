@@ -13,7 +13,6 @@ I've been passionate about **Computer Science** since I was 13, and since then I
 - JavaScript / TypeScript  
 - Python  
 - C#  
-
 <br/>
 
 ### 👀 Interests:
@@ -22,7 +21,6 @@ I've been passionate about **Computer Science** since I was 13, and since then I
 - Creative Technologies (Animation & Digital Storytelling)  
 - Aviation and Aerospace  
 - Team Projects and Innovation Challenges  
-
 <br/>
 
 ### 🔭 Looking Forward To:
@@ -31,7 +29,6 @@ I've been passionate about **Computer Science** since I was 13, and since then I
 - Creating innovative tools, platforms, or digital experiences  
 - Building my own startup in the IT and creative tech field  
 - Constantly learning and growing with passionate people  
-
 <br/>
 
 > 💡 I’m always looking for **exciting, challenging projects** to contribute to.  
