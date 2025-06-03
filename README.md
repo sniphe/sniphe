@@ -4,7 +4,6 @@
 
 I'm **Gianluca Tricarico**, a 17-year-old student at ITIS Majorana in Grugliasco, Italy.  
 I've been passionate about **Computer Science** since I was 13, and since then I’ve been constantly exploring, learning, and building.
-
 <br/>
 
 ### 🌱 Currently Learning:
